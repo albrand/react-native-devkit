@@ -9,4 +9,4 @@ Project Starter Package template for own use purposes.
 - Reactotron;
 
 ### Authored by:
-- Alexandre Brandizzi
+* [Alexandre Brandizzi](https://github.com/albrand)
